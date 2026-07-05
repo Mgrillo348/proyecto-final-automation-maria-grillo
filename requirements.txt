@@ -2,3 +2,4 @@
 pytest-html
 pytest-check
 selenium
+requests
