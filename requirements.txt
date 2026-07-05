@@ -1,2 +1,4 @@
-﻿pytest-check
+﻿pytest
+pytest-html
 pytest-check
+selenium
